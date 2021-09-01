@@ -1,0 +1,1063 @@
+@media screen and (max-width: 1300px) and (max-height: 700px) and (min-width: 1200px)
+{
+	body
+	{
+		padding-top: 109px;
+		margin: 0;
+		background-size: cover;
+		position: relative;
+		min-width: 1010px;
+	}
+	
+	#contenu
+	{
+		width: 100%;
+		background: white;
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		min-width: 1300px;
+		min-height: 100%;
+	}
+	
+	.contenutitre
+	{
+		padding-top: 0.5%;
+	}
+	
+	.titrecontact
+	{
+		color: rgb(10,10,10);
+		font-family: 'Cookie';
+		font-size: 2.8em;
+		margin-left: 42.5%;
+	}
+	
+	.hrcontact
+	{
+		border: 2px solid rgb(30,30,30);
+		margin-top: 0.5%;
+		margin-bottom: 5.5%;
+		width:100%;
+		background: rgb(30,30,30);
+	}
+	
+	.spanreglement
+	{
+		font-family: Cookie;
+		font-size: 2.7em;
+		color: rgb(15,15,15);
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-bottom: 2%;
+		width: 90%;
+		word-wrap: break-word;
+	}
+}
+
+@media screen and (max-width: 1300px) and (max-height: 800px) and (min-width: 1200px) and (min-height: 700px)
+{
+	body
+	{
+		padding-top: 109px;
+		margin: 0;
+		background-size: cover;
+		position: relative;
+		min-width: 1010px;
+	}
+	
+	#contenu
+	{
+		width: 100%;
+		background: white;
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		min-width: 1300px;
+		min-height: 100%;
+	}
+	
+	.contenutitre
+	{
+		padding-top: 0.5%;
+	}
+	
+	.titrecontact
+	{
+		color: rgb(10,10,10);
+		font-family: 'Cookie';
+		font-size: 2.8em;
+		margin-left: 42.5%;
+	}
+	
+	.hrcontact
+	{
+		border: 2px solid rgb(30,30,30);
+		margin-top: 0.5%;
+		margin-bottom: 5.5%;
+		width:100%;
+		background: rgb(30,30,30);
+	}
+	
+	.spanreglement
+	{
+		font-family: Cookie;
+		font-size: 2.7em;
+		color: rgb(15,15,15);
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-bottom: 2%;
+		width: 90%;
+		word-wrap: break-word;
+	}
+}
+
+@media screen and (max-width: 1300px) and (max-height: 900px) and (min-width: 1200px) and (min-height: 800px)
+{
+	body
+	{
+		padding-top: 109px;
+		margin: 0;
+		background-size: cover;
+		position: relative;
+		min-width: 1010px;
+	}
+	
+	#contenu
+	{
+		width: 100%;
+		background: white;
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		min-width: 1300px;
+		min-height: 100%;
+	}
+	
+	.contenutitre
+	{
+		padding-top: 0.5%;
+	}
+	
+	.titrecontact
+	{
+		color: rgb(10,10,10);
+		font-family: 'Cookie';
+		font-size: 2.8em;
+		margin-left: 42.5%;
+	}
+	
+	.hrcontact
+	{
+		border: 2px solid rgb(30,30,30);
+		margin-top: 0.5%;
+		margin-bottom: 5.5%;
+		width:100%;
+		background: rgb(30,30,30);
+	}
+	
+	.spanreglement
+	{
+		font-family: Cookie;
+		font-size: 2.7em;
+		color: rgb(15,15,15);
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-bottom: 2%;
+		width: 90%;
+		word-wrap: break-word;
+	}
+}
+
+@media screen and (max-width: 1300px) and (max-height: 1000px) and (min-width: 1200px) and (min-height: 900px)
+{
+	body
+	{
+		padding-top: 109px;
+		margin: 0;
+		background-size: cover;
+		position: relative;
+		min-width: 1010px;
+	}
+	
+	#contenu
+	{
+		width: 100%;
+		background: white;
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		min-width: 1300px;
+		min-height: 100%;
+	}
+	
+	.contenutitre
+	{
+		padding-top: 0.5%;
+	}
+	
+	.titrecontact
+	{
+		color: rgb(10,10,10);
+		font-family: 'Cookie';
+		font-size: 2.8em;
+		margin-left: 42.5%;
+	}
+	
+	.hrcontact
+	{
+		border: 2px solid rgb(30,30,30);
+		margin-top: 0.5%;
+		margin-bottom: 5.5%;
+		width:100%;
+		background: rgb(30,30,30);
+	}
+	
+	.spanreglement
+	{
+		font-family: Cookie;
+		font-size: 2.7em;
+		color: rgb(15,15,15);
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-bottom: 2%;
+		width: 90%;
+		word-wrap: break-word;
+	}
+}
+
+@media screen and (max-width: 1300px) and (min-width: 1200px) and (min-height: 1000px)
+{
+	body
+	{
+		padding-top: 109px;
+		margin: 0;
+		background-size: cover;
+		position: relative;
+		min-width: 1010px;
+	}
+	
+	#contenu
+	{
+		width: 100%;
+		background: white;
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		min-width: 1300px;
+		min-height: 100%;
+	}
+	
+	.contenutitre
+	{
+		padding-top: 0.5%;
+	}
+	
+	.titrecontact
+	{
+		color: rgb(10,10,10);
+		font-family: 'Cookie';
+		font-size: 2.8em;
+		margin-left: 42.5%;
+	}
+	
+	.hrcontact
+	{
+		border: 2px solid rgb(30,30,30);
+		margin-top: 0.5%;
+		margin-bottom: 5.5%;
+		width:100%;
+		background: rgb(30,30,30);
+	}
+	
+	.spanreglement
+	{
+		font-family: Cookie;
+		font-size: 2.7em;
+		color: rgb(15,15,15);
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-bottom: 2%;
+		width: 90%;
+		word-wrap: break-word;
+	}
+}
+
+@media screen and (max-width: 1400px) and (max-height: 800px) and (min-width: 1300px) and (min-height: 700px)
+{
+	body
+	{
+		padding-top: 109px;
+		margin: 0;
+		background-size: cover;
+		position: relative;
+		min-width: 1010px;
+	}
+	
+	#contenu
+	{
+		width: 100%;
+		background: white;
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		min-width: 1300px;
+		min-height: 100%;
+	}
+	
+	.contenutitre
+	{
+		padding-top: 0.5%;
+	}
+	
+	.titrecontact
+	{
+		color: rgb(10,10,10);
+		font-family: 'Cookie';
+		font-size: 2.8em;
+		margin-left: 43%;
+	}
+	
+	.hrcontact
+	{
+		border: 2px solid rgb(30,30,30);
+		margin-top: 0.5%;
+		margin-bottom: 5.5%;
+		width:100%;
+		background: rgb(30,30,30);
+	}
+	
+	.spanreglement
+	{
+		font-family: Cookie;
+		font-size: 2.7em;
+		color: rgb(15,15,15);
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-bottom: 2%;
+		width: 90%;
+		word-wrap: break-word;
+	}
+}
+
+@media screen and (max-width: 1400px) and (max-height: 1000px) and (min-width: 1300px) and (min-height: 800px)
+{
+	body
+	{
+		padding-top: 109px;
+		margin: 0;
+		background-size: cover;
+		position: relative;
+		min-width: 1010px;
+	}
+	
+	#contenu
+	{
+		width: 100%;
+		background: white;
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		min-width: 1300px;
+		min-height: 100%;
+	}
+	
+	.contenutitre
+	{
+		padding-top: 0.5%;
+	}
+	
+	.titrecontact
+	{
+		color: rgb(10,10,10);
+		font-family: 'Cookie';
+		font-size: 2.8em;
+		margin-left: 43%;
+	}
+	
+	.hrcontact
+	{
+		border: 2px solid rgb(30,30,30);
+		margin-top: 0.5%;
+		margin-bottom: 5.5%;
+		width:100%;
+		background: rgb(30,30,30);
+	}
+	
+	.spanreglement
+	{
+		font-family: Cookie;
+		font-size: 2.7em;
+		color: rgb(15,15,15);
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-bottom: 2%;
+		width: 90%;
+		word-wrap: break-word;
+	}
+}
+
+@media screen and (max-width: 1400px) and (max-height: 1100px) and (min-width: 1300px) and (min-height: 1000px)
+{
+	body
+	{
+		padding-top: 109px;
+		margin: 0;
+		background-size: cover;
+		position: relative;
+		min-width: 1010px;
+	}
+	
+	#contenu
+	{
+		width: 100%;
+		background: white;
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		min-width: 1300px;
+		min-height: 100%;
+	}
+	
+	.contenutitre
+	{
+		padding-top: 0.5%;
+	}
+	
+	.titrecontact
+	{
+		color: rgb(10,10,10);
+		font-family: 'Cookie';
+		font-size: 2.8em;
+		margin-left: 43%;
+	}
+	
+	.hrcontact
+	{
+		border: 2px solid rgb(30,30,30);
+		margin-top: 0.5%;
+		margin-bottom: 5.5%;
+		width:100%;
+		background: rgb(30,30,30);
+	}
+	
+	.spanreglement
+	{
+		font-family: Cookie;
+		font-size: 2.7em;
+		color: rgb(15,15,15);
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-bottom: 2%;
+		width: 90%;
+		word-wrap: break-word;
+	}
+}
+
+@media screen and (max-width: 1500px) and (max-height: 1000px) and (min-width: 1400px)
+{
+	body
+	{
+		padding-top: 109px;
+		margin: 0;
+		background-size: cover;
+		position: relative;
+		min-width: 1010px;
+	}
+	
+	#contenu
+	{
+		width: 100%;
+		background: white;
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		min-width: 1300px;
+		min-height: 100%;
+	}
+	
+	.contenutitre
+	{
+		padding-top: 0.5%;
+	}
+	
+	.titrecontact
+	{
+		color: rgb(10,10,10);
+		font-family: 'Cookie';
+		font-size: 2.8em;
+		margin-left: 43.5%;
+	}
+	
+	.hrcontact
+	{
+		border: 2px solid rgb(30,30,30);
+		margin-top: 0.5%;
+		margin-bottom: 5.5%;
+		width:100%;
+		background: rgb(30,30,30);
+	}
+	
+	.spanreglement
+	{
+		font-family: Cookie;
+		font-size: 2.7em;
+		color: rgb(15,15,15);
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-bottom: 2%;
+		width: 90%;
+		word-wrap: break-word;
+	}
+}
+
+@media screen and (max-width: 1500px) and (max-height: 1100px) and (min-width: 1400px) and (min-height: 1000px)
+{
+	body
+	{
+		padding-top: 109px;
+		margin: 0;
+		background-size: cover;
+		position: relative;
+		min-width: 1010px;
+	}
+	
+	#contenu
+	{
+		width: 100%;
+		background: white;
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		min-width: 1300px;
+		min-height: 100%;
+	}
+	
+	.contenutitre
+	{
+		padding-top: 0.5%;
+	}
+	
+	.titrecontact
+	{
+		color: rgb(10,10,10);
+		font-family: 'Cookie';
+		font-size: 2.8em;
+		margin-left: 43.5%;
+	}
+	
+	.hrcontact
+	{
+		border: 2px solid rgb(30,30,30);
+		margin-top: 0.5%;
+		margin-bottom: 5.5%;
+		width:100%;
+		background: rgb(30,30,30);
+	}
+	
+	.spanreglement
+	{
+		font-family: Cookie;
+		font-size: 2.7em;
+		color: rgb(15,15,15);
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-bottom: 2%;
+		width: 90%;
+		word-wrap: break-word;
+	}
+}
+
+@media screen and (max-width: 1600px) and (max-height: 740px) and (min-width: 1500px)
+{
+	body
+	{
+		padding-top: 109px;
+		margin: 0;
+		background-size: cover;
+		position: relative;
+		min-width: 1010px;
+	}
+	
+	#contenu
+	{
+		width: 100%;
+		background: white;
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		min-width: 1300px;
+		min-height: 100%;
+	}
+	
+	.contenutitre
+	{
+		padding-top: 0.5%;
+	}
+	
+	.titrecontact
+	{
+		color: rgb(10,10,10);
+		font-family: 'Cookie';
+		font-size: 2.8em;
+		margin-left: 44%;
+	}
+	
+	.hrcontact
+	{
+		border: 2px solid rgb(30,30,30);
+		margin-top: 0.5%;
+		margin-bottom: 5.5%;
+		width:100%;
+		background: rgb(30,30,30);
+	}
+	
+	.spanreglement
+	{
+		font-family: Cookie;
+		font-size: 2.7em;
+		color: rgb(15,15,15);
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-bottom: 2%;
+		width: 90%;
+		word-wrap: break-word;
+	}
+}
+
+@media screen and (max-width: 1600px) and (max-height: 850px) and (min-width: 1500px) and (min-height: 740px)
+{
+	body
+	{
+		padding-top: 109px;
+		margin: 0;
+		background-size: cover;
+		position: relative;
+		min-width: 1010px;
+	}
+	
+	#contenu
+	{
+		width: 100%;
+		background: white;
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		min-width: 1300px;
+		min-height: 100%;
+	}
+	
+	.contenutitre
+	{
+		padding-top: 0.5%;
+	}
+	
+	.titrecontact
+	{
+		color: rgb(10,10,10);
+		font-family: 'Cookie';
+		font-size: 2.8em;
+		margin-left: 44%;
+	}
+	
+	.hrcontact
+	{
+		border: 2px solid rgb(30,30,30);
+		margin-top: 0.5%;
+		margin-bottom: 5.5%;
+		width:100%;
+		background: rgb(30,30,30);
+	}
+	
+	.spanreglement
+	{
+		font-family: Cookie;
+		font-size: 2.7em;
+		color: rgb(15,15,15);
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-bottom: 2%;
+		width: 90%;
+		word-wrap: break-word;
+	}
+}
+
+@media screen and (max-width: 1600px) and (min-width: 1500px) and (min-height: 850px)
+{
+	body
+	{
+		padding-top: 109px;
+		margin: 0;
+		background-size: cover;
+		position: relative;
+		min-width: 1010px;
+	}
+	
+	#contenu
+	{
+		width: 100%;
+		background: white;
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		min-width: 1300px;
+		min-height: 100%;
+	}
+	
+	.contenutitre
+	{
+		padding-top: 0.5%;
+	}
+	
+	.titrecontact
+	{
+		color: rgb(10,10,10);
+		font-family: 'Cookie';
+		font-size: 2.8em;
+		margin-left: 44%;
+	}
+	
+	.hrcontact
+	{
+		border: 2px solid rgb(30,30,30);
+		margin-top: 0.5%;
+		margin-bottom: 5.5%;
+		width:100%;
+		background: rgb(30,30,30);
+	}
+	
+	.spanreglement
+	{
+		font-family: Cookie;
+		font-size: 2.7em;
+		color: rgb(15,15,15);
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-bottom: 2%;
+		width: 90%;
+		word-wrap: break-word;
+	}
+}
+
+@media screen and (max-width: 1700px) and (max-height: 1000px) and (min-width: 1600px)
+{
+	body
+	{
+		padding-top: 109px;
+		margin: 0;
+		background-size: cover;
+		position: relative;
+		min-width: 1010px;
+	}
+	
+	#contenu
+	{
+		width: 100%;
+		background: white;
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		min-width: 1300px;
+		min-height: 100%;
+	}
+	
+	.contenutitre
+	{
+		padding-top: 0.5%;
+	}
+	
+	.titrecontact
+	{
+		color: rgb(10,10,10);
+		font-family: 'Cookie';
+		font-size: 2.8em;
+		margin-left: 45%;
+	}
+	
+	.hrcontact
+	{
+		border: 2px solid rgb(30,30,30);
+		margin-top: 0.5%;
+		margin-bottom: 5.5%;
+		width:100%;
+		background: rgb(30,30,30);
+	}
+	
+	.spanreglement
+	{
+		font-family: Cookie;
+		font-size: 2.7em;
+		color: rgb(15,15,15);
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-bottom: 2%;
+		width: 90%;
+		word-wrap: break-word;
+	}
+}
+
+@media screen and (max-width: 1700px) and (max-height: 1100px) and (min-width: 1600px) and (min-height: 1000px)
+{
+	body
+	{
+		padding-top: 109px;
+		margin: 0;
+		background-size: cover;
+		position: relative;
+		min-width: 1010px;
+	}
+	
+	#contenu
+	{
+		width: 100%;
+		background: white;
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		min-width: 1300px;
+		min-height: 100%;
+	}
+	
+	.contenutitre
+	{
+		padding-top: 0.5%;
+	}
+	
+	.titrecontact
+	{
+		color: rgb(10,10,10);
+		font-family: 'Cookie';
+		font-size: 2.8em;
+		margin-left: 45%;
+	}
+	
+	.hrcontact
+	{
+		border: 2px solid rgb(30,30,30);
+		margin-top: 0.5%;
+		margin-bottom: 5.5%;
+		width:100%;
+		background: rgb(30,30,30);
+	}
+	
+	.spanreglement
+	{
+		font-family: Cookie;
+		font-size: 2.7em;
+		color: rgb(15,15,15);
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-bottom: 2%;
+		width: 90%;
+		word-wrap: break-word;
+	}
+}
+
+@media screen and (max-width: 1850px) and (min-width: 1700px)
+{
+	body
+	{
+		padding-top: 109px;
+		margin: 0;
+		background-size: cover;
+		position: relative;
+		min-width: 1010px;
+	}
+	
+	#contenu
+	{
+		width: 100%;
+		background: white;
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		min-width: 1300px;
+		min-height: 100%;
+	}
+	
+	.contenutitre
+	{
+		padding-top: 0.5%;
+	}
+	
+	.titrecontact
+	{
+		color: rgb(10,10,10);
+		font-family: 'Cookie';
+		font-size: 2.8em;
+		margin-left: 45.5%;
+	}
+	
+	.hrcontact
+	{
+		border: 2px solid rgb(30,30,30);
+		margin-top: 0.5%;
+		margin-bottom: 5.5%;
+		width:100%;
+		background: rgb(30,30,30);
+	}
+	
+	.spanreglement
+	{
+		font-family: Cookie;
+		font-size: 2.7em;
+		color: rgb(15,15,15);
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-bottom: 2%;
+		width: 90%;
+		word-wrap: break-word;
+	}
+}
+
+@media screen and (max-width: 2000px) and (max-height: 1100px) and (min-width: 1850px) and (min-height: 1000px)
+{
+	body
+	{
+		padding-top: 109px;
+		margin: 0;
+		background-size: cover;
+		position: relative;
+		min-width: 1010px;
+	}
+	
+	#contenu
+	{
+		width: 100%;
+		background: white;
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		min-width: 1300px;
+		min-height: 100%;
+	}
+	
+	.contenutitre
+	{
+		padding-top: 0.5%;
+	}
+	
+	.titrecontact
+	{
+		color: rgb(10,10,10);
+		font-family: 'Cookie';
+		font-size: 2.8em;
+		margin-left: 46%;
+	}
+	
+	.hrcontact
+	{
+		border: 2px solid rgb(30,30,30);
+		margin-top: 0.5%;
+		margin-bottom: 5.5%;
+		width:100%;
+		background: rgb(30,30,30);
+	}
+	
+	.spanreglement
+	{
+		font-family: Cookie;
+		font-size: 2.7em;
+		color: rgb(15,15,15);
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-bottom: 2%;
+		width: 90%;
+		word-wrap: break-word;
+	}
+}
+
+@media screen and (max-width: 2000px) and (max-height: 1200px) and (min-width: 1850px) and (min-height: 1100px)
+{
+	body
+	{
+		padding-top: 109px;
+		margin: 0;
+		background-size: cover;
+		position: relative;
+		min-width: 1010px;
+	}
+	
+	#contenu
+	{
+		width: 100%;
+		background: white;
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		min-width: 1300px;
+		min-height: 100%;
+	}
+	
+	.contenutitre
+	{
+		padding-top: 0.5%;
+	}
+	
+	.titrecontact
+	{
+		color: rgb(10,10,10);
+		font-family: 'Cookie';
+		font-size: 2.8em;
+		margin-left: 46%;
+	}
+	
+	.hrcontact
+	{
+		border: 2px solid rgb(30,30,30);
+		margin-top: 0.5%;
+		margin-bottom: 5.5%;
+		width:100%;
+		background: rgb(30,30,30);
+	}
+	
+	.spanreglement
+	{
+		font-family: Cookie;
+		font-size: 2.7em;
+		color: rgb(15,15,15);
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-bottom: 2%;
+		width: 90%;
+		word-wrap: break-word;
+	}
+}
+
+@media screen and (min-width: 2000px) and (min-height: 1200px)
+{
+	body
+	{
+		padding-top: 109px;
+		margin: 0;
+		background-size: cover;
+		position: relative;
+		min-width: 1010px;
+	}
+	
+	#contenu
+	{
+		width: 100%;
+		background: white;
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid transparent;
+		min-width: 1300px;
+		min-height: 100%;
+	}
+	
+	.contenutitre
+	{
+		padding-top: 0.5%;
+	}
+	
+	.titrecontact
+	{
+		color: rgb(10,10,10);
+		font-family: 'Cookie';
+		font-size: 2.8em;
+		margin-left: 46%;
+	}
+	
+	.hrcontact
+	{
+		border: 2px solid rgb(30,30,30);
+		margin-top: 0.5%;
+		margin-bottom: 5.5%;
+		width:100%;
+		background: rgb(30,30,30);
+	}
+	
+	.spanreglement
+	{
+		font-family: Cookie;
+		font-size: 2.7em;
+		color: rgb(15,15,15);
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-bottom: 2%;
+		width: 90%;
+		word-wrap: break-word;
+	}
+}
