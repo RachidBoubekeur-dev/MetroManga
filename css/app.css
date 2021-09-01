@@ -1,0 +1,75 @@
+.photos{cursor:pointer;}
+
+/* Glisse: Overlay */
+#glisse-overlay {
+  background: rgba(0,0,0,0.9);}
+
+#glisse-close {
+  width: 100px;
+  height: 100px;
+  display: none;
+  position: fixed;
+  transform: scale(0.4);
+  transition: all 0.4s;
+  top: 562px;
+  background: url("../images/fermez.png") no-repeat;}
+
+#glisse-close:hover
+{
+	transform: scale(0.5);
+}
+
+#glisse-close:active
+{
+	transform: scale(0.3);
+}
+
+/* Prev/Next button */
+.glisse-next a, .glisse-prev a {
+  width: 3%;
+  height: 8%;
+  display: inline-block;
+  transition: all 0.4s;} 
+  
+.glisse-next a 
+{
+	position: absolute;
+	top: 55%;
+	right: 1%;
+	transform: scale(1.1);
+	background: url("../images/suivant.png") no-repeat;
+}
+
+.glisse-next a:hover
+{
+	transform: scale(1.2);
+}
+
+.glisse-next a:active
+{
+	transform: scale(1);
+}
+  
+.glisse-prev a 
+{
+	position: absolute;
+	top: 53%;
+  left: 1%;
+  background: url("../images/suivant.png") no-repeat;
+  transform: scale(1.1) rotate(180deg);
+}
+  
+.glisse-prev a:hover
+{
+	transform: scale(1.2) rotate(180deg);
+}
+.glisse-prev a:active
+{
+	transform: scale(1) rotate(180deg);
+}
+
+/* Legend */
+.glisse-legend {
+	display: none;
+}
+
